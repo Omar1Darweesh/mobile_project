@@ -17,3 +17,33 @@ To run the project:
 2. Clone the repository:
    ```bash
    git clone https://github.com/Omar1Darweesh/mobile_project.git
+   ```
+3. Navigate into the project folder:
+   ```bash
+   cd mobile_project
+   ```
+4. Get the packages:
+   ```bash
+   flutter pub get
+   ```
+5. Run the app:
+   ```bash
+   flutter run
+   ```
+
+## Contribution Rules
+
+Hi everyone,
+
+- Please **don't push directly** to the `master` branch.
+- If you want to add your code:
+
+  1. Go to GitHub → Click `Branch: master` → Type a new branch name → Create branch.
+  2. Upload your changes or push your code to your new branch.
+  3. Open a **Pull Request** from your branch to `master`.
+  4. Wait for approval. After approval, your code will be merged into `master`.
+
+**Important:**  
+Always pull the latest code before starting your work (`git pull origin master`).
+
+Thanks! 😊
