@@ -1,16 +1,19 @@
 # mobile_project
 
-A new Flutter project.
+This project was developed as part of the **Mobile Development** course at **MSA University**.
+
+## About the Project
+
+It is a Flutter-based mobile application that demonstrates key concepts in mobile app development, including:
+- User interface (UI) design
+- Navigation between screens
+- Basic user interaction and functionality
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run the project:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Make sure you have [Flutter](https://flutter.dev/docs/get-started/install) installed.
+2. Clone the repository:
+   ```bash
+   git clone https://github.com/Omar1Darweesh/mobile_project.git
